@@ -35,6 +35,9 @@ Found seasonal sales trends affecting business performance
 Analyzed return patterns impacting profitability
 Highlighted best-selling product categories
 Discovered growth opportunities in underperforming markets
+West region generated highest sales
+Electronics category dominates revenue
+Loss observed in low-margin products
 
 📁 Project Structure
 Amazon-Global-Sales-Analytics-PowerBI/
